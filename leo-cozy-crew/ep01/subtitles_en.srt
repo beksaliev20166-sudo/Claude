@@ -1,0 +1,27 @@
+1
+00:00:01,000 --> 00:00:04,500
+Leo: Good morning! What's that music?
+
+2
+00:00:06,000 --> 00:00:08,200
+Mom: Good morning, Leo! Come and dance!
+
+3
+00:00:08,600 --> 00:00:10,800
+Dad: Let's play together!
+
+4
+00:00:12,000 --> 00:00:15,000
+Leo: Yay! This is so much fun!
+
+5
+00:00:16,500 --> 00:00:19,000
+Grandma: Wonderful, Leo!
+
+6
+00:00:21,500 --> 00:00:25,000
+Grandpa: Music makes us happy!
+
+7
+00:00:26,500 --> 00:00:29,800
+Everyone: Leo Cozy Crew! We love our family!
